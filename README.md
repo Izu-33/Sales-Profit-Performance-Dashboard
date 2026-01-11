@@ -13,7 +13,7 @@ The dashboard is designed with a modern, user-friendly interface and includes mu
 
 ## 📈 Dashboard Pages
 
-1. Superstore Overview
+### 1. Superstore Overview
 ![Superstore Overview](images/Slide1.PNG)
 - Interactive navigation menu with sections:
   - Sales & Performance
@@ -25,7 +25,7 @@ The dashboard is designed with a modern, user-friendly interface and includes mu
 - Period: 2014–2017
 - Total metrics at a glance
 
-2. Sales & Performance
+### 2. Sales & Performance
 ![Sales & Performance](images/Slide2.PNG)
 - Customer segment revenue breakdown (Consumer, Corporate, Home Office)
 - Year-over-year growth indicators
@@ -36,28 +36,28 @@ The dashboard is designed with a modern, user-friendly interface and includes mu
   - Profit Margin: 12.74%
   - Average Discount: 15.65%
 
-3. Regional & State Insights
+### 3. Regional & State Insights
 ![Regional & State Insights](images/Slide4.PNG)
 - Sales performance by state (geographic distribution)
 - Profit distribution across states
 - Regional comparison (West, East, Central, South)
 - Detailed city/state table with profit margins and discounts
 
-4. Product & Category Performance
+### 4. Product & Category Performance
 ![Product & Category Performance](images/Slide5.PNG)
 - Top products by total sales
 - Profit dynamics by segment and region
 - Sales dynamics by segment and region
 - Visual comparison of product categories
 
-5. Profitability Analysis
+### 5. Profitability Analysis
 ![Profitability Analysis](images/Slide6.PNG)
 - Profit contribution by product sub-category
 - Discount vs. Profit relationship scatter plot
 - Profit growth trend over time (2017 monthly view)
 - Interactive year/month filters
 
-6. Segment-Level Behavior
+### 6. Segment-Level Behavior
 ![Segment-Level Behavior](images/Slide7.PNG)
 - Breakdown of sales by customer segment, region, category, and sub-category
 - Profit contribution by customer segment
